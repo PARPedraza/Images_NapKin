@@ -90,17 +90,17 @@ Nissan, H.; Goddard, L.; Coughlan de Perez, E.; et al. (2019). *On the Use and M
 
 | ----------------------------- | ----------- | ------------- | ----------- |
 
-| Water Resource Management | ✔️ | ✔️ | ✔️ |
+| Water Resource Management | 3 | 6 | 10 |
 
-| Soil Quality Monitoring | ✔️ | ✔️ | ✔️ |
+| Soil Quality Monitoring   | 3 | 6 | 10 |
 
-| Climate Change Effects | | ✔️ | ✔️ |
+| Climate Change Effects    |   | 6 | 10 |
 
-| Pest and Disease Control | ✔️ | ✔️ | ✔️ |
+| Pest and Disease Control  | 3 | 6 | 10 |
 
-| Anthocyanins Monitoring | ✔️ | | ✔️ |
+| Anthocyanins Monitoring   | 3 |   | 10 |
 
-| By-products Utilization | | ✔️ | ✔️ |
+| By-products Utilization   |   | 6 | 10 |
 
 🛠️ *Note*: Final edits were applied after Napkin generation to correct terminology and color clarity.
 
