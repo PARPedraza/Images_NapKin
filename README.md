@@ -1,85 +1,98 @@
-# Visualizaciones Generadas con IA — Figuras 1, 3 y 6
+# AI-Generated Visualizations — Figures 1, 3, and 6
 
-Este repositorio contiene tres figuras generadas con la herramienta Napkin.app, diseñadas como parte de una revisión sistemática sobre la aplicación de inteligencia artificial (IA) en el estudio del cultivo de *Hibiscus sabdariffa*. Las figuras representan conceptos clave, evolución metodológica y posibles líneas de investigación a futuro.
+This repository contains three figures generated using [Napkin.app](https://www.napkin.io/), created as part of a systematic review on the application of Artificial Intelligence (AI) in *Hibiscus sabdariffa* research. These visuals summarize key concepts, the evolution of methodologies, and future research directions.
 
 ---
 
-## Figura 1 – Mapa Conceptual de la Inteligencia Artificial
+## Figure 1 – Conceptual Map of Artificial Intelligence
 
-Esta figura se basa en la estructura jerárquica de la IA y sus áreas de aplicación. Fue inspirada por la siguiente fuente académica:
+This mind map was inspired by the following reference and illustrates the main branches and applications of AI.
 
-📚 **Referencia**:  
+📚 **Reference**:  
 Benavides, Liliana; Goytia, Edgar; Ramírez, Luisa. (2023). *El uso de la inteligencia artificial en un entorno académico*. Ciencia Nicolaita.  
 🔗 [https://doi.org/10.35830/cn.vi89.721](https://doi.org/10.35830/cn.vi89.721)
 
-### Contenido
-La figura representa la IA como una rama principal que se subdivide en:
+### Content
 
-### 📘 I. Métodos de Aprendizaje (Machine Learning)
-- 🔹 Aprendizaje Supervisado: entrenamiento con datos etiquetados  
-- 🔹 Aprendizaje No Supervisado: patrones en datos no etiquetados  
-- 🔹 Aprendizaje por Refuerzo: retroalimentación por ensayo y error
+Artificial Intelligence is divided into two major components:
 
-### 🧭 II. Áreas de Aplicación
-- 💬 Procesamiento del Lenguaje Natural (NLP):  
-  traducción automática, generación de texto, extracción de contenido, respuesta a preguntas  
-- 👁️ Visión por Computadora:  
-  reconocimiento de imágenes, visión artificial  
-- 🗣️ Procesamiento de Voz:  
-  de voz a texto (Speech-to-Text) y viceversa (Text-to-Speech)  
-- 🤖 Robótica:  
-  robots autónomos e industriales  
-- 🧠 Sistemas Expertos:  
-  reglas lógicas programadas (no requieren entrenamiento)  
-- 📍 Planificación:  
-  algoritmos de decisión secuencial
+### 📘 I. Learning Methods (Machine Learning)
+- 🔹 Supervised Learning: uses labeled data  
+- 🔹 Unsupervised Learning: discovers patterns in unlabeled data  
+- 🔹 Reinforcement Learning: trial-and-error with feedback
 
-🛠️ *Nota*: La visualización generada por IA fue ajustada para mejorar claridad semántica, consistencia de iconos y distribución del contenido.
+### 🧭 II. Application Areas
+- 💬 Natural Language Processing (NLP):  
+  translation, text generation, context extraction, question answering  
+- 👁️ Computer Vision:  
+  image recognition, machine vision  
+- 🗣️ Speech Processing:  
+  speech-to-text and text-to-speech  
+- 🤖 Robotics:  
+  autonomous and industrial robots  
+- 🧠 Expert Systems:  
+  rule-based decision making (no training needed)  
+- 📍 Planning:  
+  sequential decision algorithms
 
-📷 **Figura 1**:  
-![Figura 1](./Figure1.png)
+🛠️ *Note*: The Napkin-generated image was post-edited for icon consistency and semantic clarity.
 
----
-
-## Figura 3 – Línea del Tiempo de Métodos Aplicados con IA
-
-Esta figura representa una cronología de los métodos de IA aplicados en investigaciones sobre *Hibiscus sabdariffa*. La información fue obtenida tras realizar una revisión sistemática con criterios de inclusión que exigían el uso explícito de inteligencia artificial.
-
-📚 **Fuente de los datos**: Artículos que cumplieron con los criterios de inclusión definidos en la revisión sistemática (IA + *Hibiscus sabdariffa*).
-
-### Contenido
-
-
-🛠️ *Nota*: La imagen generada por Napkin fue ajustada posteriormente para corregir errores en nombres, distribución visual y secuencia temporal.
-
-📷 **Figura 3**:  
-![Figura 3](./Figure3.png)
+📷 **Figure 1**:  
+![Figure 1](./Figure1.png)
 
 ---
 
-## Figura 6 – Horizonte Temporal de Aplicaciones de IA en Agricultura
+## Figure 3 – Timeline of AI Methods in *Hibiscus sabdariffa*
 
-Esta figura ilustra cómo podrían priorizarse las áreas de investigación en el tiempo, según la urgencia de atención e impacto. Se basa en una estructura de planificación estratégica inspirada en literatura sobre cambio climático y desarrollo sostenible.
+This timeline illustrates the chronological appearance of AI methods applied in studies that met the inclusion criteria of using AI and *Hibiscus sabdariffa*.
 
-📚 **Referencia**:  
+📚 **Data Source**:  
+Systematic review conducted as part of this study (only papers meeting inclusion criteria were used).
+
+### Timeline Content
+
+2013: ANN, PLS
+2014: ACO-PLS, GA-PLS
+2015: MaxEnt
+2019: RSM, ANN, ANFIS
+2020: Naive Bayes, PNN, SVM, Fuzzy Logic, MFEF/MNFF Models
+2021: ANN
+2022: MGGP, Ward, PCA, FFNN/Levenberg-Marquardt
+2023: PLS, PCR, KNN
+2024: Fusion Model, Decision Tree, K-Means, ResNet, DenseNet, VGG, ConvNeXt, Swin Transformer
+2025: Adaptive Boosting, Support Vector Regressor, Ridge Regressor, Lasso Regressor, Random Forest Regressor, Multi-Layer KNN Regressor, Gradient Boosting
+
+
+🛠️ *Note*: The timeline was adjusted after generation to correct visual and chronological inconsistencies.
+
+📷 **Figure 3**:  
+![Figure 3](./Figure3.png)
+
+---
+
+## Figure 6 – Time Horizon for AI Applications in Agriculture
+
+This diagram outlines AI applications in agriculture according to short-, mid-, and long-term priorities. The structure was inspired by strategic planning models in international development.
+
+📚 **Reference**:  
 Nissan, H.; Goddard, L.; Coughlan de Perez, E.; et al. (2019). *On the Use and Misuse of Climate Change Projections in International Development*. WIREs Climate Change, 10, e579.  
 🔗 [https://doi.org/10.1002/wcc.579](https://doi.org/10.1002/wcc.579)
 
-### Tabla de Horizontes Temporales
+### Table of Research Horizons
 
-| Dirección de investigación      | Corto plazo (1–3 años) | Mediano plazo (4–6 años) | Largo plazo (6–10 años) |
-|--------------------------------|-------------------------|---------------------------|--------------------------|
-| Gestión de recursos hídricos   | ✔️                      | ✔️                        | ✔️                       |
-| Monitoreo de calidad del suelo | ✔️                      | ✔️                        | ✔️                       |
-| Efectos del cambio climático   |                         | ✔️                        | ✔️                       |
-| Control de plagas y enfermedades| ✔️                     | ✔️                        | ✔️                       |
-| Monitoreo de antocianinas      | ✔️                      |                           | ✔️                       |
-| Aprovechamiento de subproductos|                         | ✔️                        | ✔️                       |
+| Research Direction              | Short Term (1–3 yrs) | Mid Term (4–6 yrs) | Long Term (6–10 yrs) |
+|--------------------------------|----------------------|---------------------|-----------------------|
+| Water Resource Management      | ✔️                   | ✔️                  | ✔️                    |
+| Soil Quality Monitoring        | ✔️                   | ✔️                  | ✔️                    |
+| Climate Change Effects         |                      | ✔️                  | ✔️                    |
+| Pest and Disease Control       | ✔️                   | ✔️                  | ✔️                    |
+| Anthocyanins Monitoring        | ✔️                   |                     | ✔️                    |
+| By-products Utilization        |                      | ✔️                  | ✔️                    |
 
-🛠️ *Nota*: La visualización generada en Napkin fue ajustada manualmente para mejorar precisión terminológica y temporal.
+🛠️ *Note*: Final edits were applied after Napkin generation to correct terminology and color clarity.
 
-📷 **Figura 6**:  
-![Figura 6](./Figure6.png)
+📷 **Figure 6**:  
+![Figure 6](./Figure6.png)
 
 ---
 
