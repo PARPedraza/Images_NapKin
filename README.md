@@ -14,26 +14,32 @@ Benavides, Liliana; Goytia, Edgar; Ramírez, Luisa. (2023). *El uso de la inteli
 
 ### Content
 
-Artificial Intelligence is divided into two major components:
-
-### 📘 I. Learning Methods (Machine Learning)
-- 🔹 Supervised Learning: uses labeled data  
-- 🔹 Unsupervised Learning: discovers patterns in unlabeled data  
-- 🔹 Reinforcement Learning: trial-and-error with feedback
-
-### 🧭 II. Application Areas
-- 💬 Natural Language Processing (NLP):  
-  translation, text generation, context extraction, question answering  
-- 👁️ Computer Vision:  
-  image recognition, machine vision  
-- 🗣️ Speech Processing:  
-  speech-to-text and text-to-speech  
-- 🤖 Robotics:  
-  autonomous and industrial robots  
-- 🧠 Expert Systems:  
-  rule-based decision making (no training needed)  
-- 📍 Planning:  
-  sequential decision algorithms
+Artificial Intelligence (IA)
+1. Machine Learning
+	1. Deep Learning
+	2. Supervised
+	3. Unsupervised
+	4. Semi Supervised
+	5. Reinforcement
+2. Natural Language Processing (NLP)
+	1. Context Extraction
+	2. Machine Translation
+	3. Question Answering
+	4. Text Generation
+	5. Informtion Retrieval
+	6. Sentiment Analysis
+	7. Topic Modeling
+3. Expert Systems
+4. Vision
+	1. Image recognition
+	2. Machine vision
+5. Speech
+	1. Speech to Text
+	2. Text to Speech
+6. Planning
+7. Robotics
+	1. Speech to Text
+	2. Text to Speech
 
 🛠️ *Note*: The Napkin-generated image was post-edited for icon consistency and semantic clarity.
 
@@ -80,14 +86,21 @@ Nissan, H.; Goddard, L.; Coughlan de Perez, E.; et al. (2019). *On the Use and M
 
 ### Table of Research Horizons
 
-| Research Direction              | Short Term (1–3 yrs) | Mid Term (4–6 yrs) | Long Term (6–10 yrs) |
-|--------------------------------|----------------------|---------------------|-----------------------|
-| Water Resource Management      | ✔️                   | ✔️                  | ✔️                    |
-| Soil Quality Monitoring        | ✔️                   | ✔️                  | ✔️                    |
-| Climate Change Effects         |                      | ✔️                  | ✔️                    |
-| Pest and Disease Control       | ✔️                   | ✔️                  | ✔️                    |
-| Anthocyanins Monitoring        | ✔️                   |                     | ✔️                    |
-| By-products Utilization        |                      | ✔️                  | ✔️                    |
+| Research directions | Short term (1-3 years) | Both horizons (4-6 year) | Long term (6-10 years) |
+
+| ----------------------------- | ----------- | ------------- | ----------- |
+
+| Water Resource Management | ✔️ | ✔️ | ✔️ |
+
+| Soil Quality Monitoring | ✔️ | ✔️ | ✔️ |
+
+| Climate Change Effects | | ✔️ | ✔️ |
+
+| Pest and Disease Control | ✔️ | ✔️ | ✔️ |
+
+| Anthocyanins Monitoring | ✔️ | | ✔️ |
+
+| By-products Utilization | | ✔️ | ✔️ |
 
 🛠️ *Note*: Final edits were applied after Napkin generation to correct terminology and color clarity.
 
