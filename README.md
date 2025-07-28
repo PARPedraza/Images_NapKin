@@ -1,7 +1,5 @@
-from pathlib import Path
 
-# Contenido del archivo README.md
-readme_content = """
+
 # 📊 Timeline of AI Methods Applied to *Hibiscus sabdariffa* Studies
 
 This visualization was created using **[Napkin](https://napkin.io/)** to illustrate the evolution of artificial intelligence methods employed in research articles involving *Hibiscus sabdariffa*. 
